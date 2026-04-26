@@ -99,12 +99,97 @@ Erikson, Freud'un psikoseksüel teorisini sosyal/kültürel boyuta genişletti. 
 
 ---
 
-## 4. BOWLBY / AINSWORTH — Bağlanma Teorisi
+## 4. JOHN BOWLBY & MARY AINSWORTH — Bağlanma Teorisi
 
-*(Bu bölüm araştırma sonrası genişletilecek.)*
+**Teoristler:** John Bowlby (1907–1990), İngiliz psikiyatrist; Mary Ainsworth (1913–1999), Amerikalı-Kanadalı gelişim psikoloğu. Teori 1950–1970'lerde gelişti; "Strange Situation" deneyi 1969–1978.
+
+### Ana Fikir
+Bowlby, çocuk-bakıcı bağının evrimsel bir hayatta kalma sistemi olduğunu öne sürdü: bebek, **birincil bakıcıya** yakın kalarak korunma, düzenleme ve keşif için "güvenli bir liman" oluşturur. Bu erken ilişki, çocuğun kendisi/başkaları/ilişkiler hakkında **içsel çalışma modelleri** (internal working models) geliştirmesine yol açar — bu modeller yaşam boyu romantik ilişkilere, ebeveynliğe ve duygu düzenlemesine taşınır. Ainsworth, bu bağın kalitesini "Yabancı Durum" deneyiyle ölçülebilir hale getirdi.
+
+### Bağlanma Stilleri (Ainsworth + sonradan eklenen 4.)
+- **Güvenli (Secure, ~%55–65):** Bakıcı duyarlı ve tutarlı. Çocuk ayrılınca üzülür, dönünce kolay rahatlar; keşfetmek için güvenli bir üs olarak bakıcıyı kullanır.
+- **Kaygılı-Kaçıngan (Avoidant, ~%20):** Bakıcı duygusal olarak mesafeli/reddedici. Çocuk ihtiyacı bastırır, ayrılık-kavuşmaya kayıtsız görünür.
+- **Kaygılı-Dirençli/Kararsız (Ambivalent/Resistant, ~%10):** Bakıcı tutarsız (bazen yanıt veriyor, bazen değil). Çocuk hem yapışır hem öfkelenir, rahatlamak zor.
+- **Dezorganize (Main & Solomon, sonradan eklendi, ~%5–10):** Bakıcı korkutucu/travmatik. Çocukta tutarlı strateji yok; donma, çelişkili davranışlar — riskli klinik göstergesi.
+
+### Ana Kavramlar
+- **Güvenli üs (secure base):** Bakıcı, çocuğun keşfe çıkıp güvenle dönebileceği bir çapa.
+- **Duyarlı yanıt (sensitive responsiveness):** İhtiyacı doğru okuma + zamanında, uygun yanıt.
+- **Tamir (repair):** Mükemmellik gerekmez; kopma sonrası yeniden bağlanma güveni inşa eder.
+- **Circle of Security:** Bağlanma teorisinden türetilmiş, ebeveynler için görselleştirilmiş klinik araç.
+
+### Modern Eleştiri / Güncelleme
+- **Tek bakıcı varsayımı** aşıldı — çocuklar **çoklu bağlanma figürleri** (baba, büyükanne, bakıcı) geliştirebilir.
+- Bağlanma stilleri **değişmez kader değil** — sonraki ilişkiler ve terapi ile değişebilir ("kazanılmış güvenli bağlanma").
+- **Kültürel varyasyon:** "Strange Situation"da Japonya, Almanya gibi ülkelerde dağılım farklı; "güvenli" davranış kültürel olarak değişebilir.
+- Mizaç (temperament) faktörü: bazı bebekler doğuştan daha tepkili/zor; bağlanma sadece ebeveynin "kabahati" değil.
+- Nörobilim desteği güçlü: erken bağlanma, stres düzenleme (HPA ekseni), oksitosin sistemleri ile ilişkili.
+
+### DADIBOT için Pratik Anlamı
+- **Bağlanma, DADIBOT'un en kritik teorik temeli olabilir** — çünkü hedefimiz "üçüncü ebeveyn" olmak ve birincil bağlanmayı **GÜÇLENDİRMEK**, ikame etmek değil.
+- **0–2 yaş modülü merkezi mesaj:** "Ağlamaya yanıt verin, şımartmazsınız" — Türkiye'deki yaygın yanlış inanca karşı bilim dilinde rehber.
+- **Duyarlı yanıt eğitimi:** Ebeveyne çocuğun ipuçlarını okumayı öğreten mikro-modüller (ağlama tipleri, vücut dili, mizaç farkları).
+- **"Tamir" kültürü:** Ebeveyne "bağırdım, hata yaptım — sonra ne yapmalıyım?" rehberi; mükemmellik baskısı yerine onarım vurgusu (suçluluk azaltıcı).
+- **Çoklu bağlanma figürlerini destekle:** Türkiye'de büyükanne/teyze/bakıcı sık devrede — bu figürlerin de tutarlı/duyarlı olması için ortak rehberlik.
+- **Risk taraması:** Dezorganize bağlanma işaretleri (donma, korkulu davranış) için ebeveyne nazik uyarı + uzman yönlendirme; AI tek başına çözmemeli.
+- **DADIBOT'un kendisi bir bağlanma figürü olmamalı** — "ben sana yardım eden bir araçım, asıl güvenli üssün annen/baban" çerçevesi etik açıdan kritik.
+
+---
 
 ---
 
 ## DADIBOT İÇİN SENTEZ
 
-*(4 teori entegre edildikten sonra yazılacak.)*
+Bu 4 teori birbirinin alternatifi değil, **tamamlayıcısı**. Her biri çocuğun farklı bir boyutuna ışık tutar:
+
+| Teori | Sorduğu Soru | DADIBOT'a Katkısı |
+|---|---|---|
+| **Piaget** | Çocuk ne *düşünebilir*? | Yaşa uygun **bilişsel** içerik/oyun seviyesi |
+| **Vygotsky** | Çocuk başkalarıyla ne *öğrenebilir*? | **Scaffolding** mantığı + adaptif zorluk + dil/oyun teşviki |
+| **Erikson** | Çocuk şu an hangi *psikososyal görevle* boğuşuyor? | Yaş modülünün **duygusal/sosyal teması** |
+| **Bowlby/Ainsworth** | Çocuk *güvende* hissediyor mu? | **İlişki kalitesi** ve duyarlı yanıt rehberliği — temel zemin |
+
+### DADIBOT Yaş Modüllerinin 4-Katmanlı Çerçevesi
+
+Her yaş modülü (0–6 ay, 6–12 ay, 1–2, 2–3, 3–4, 4–5, 5–7, 7–9, 9–12) **4 katmanda** içerik üretmeli:
+
+1. **BİLİŞSEL KATMAN (Piaget):** Bu yaşta çocuk hangi düşünme aracına sahip? Hangi oyunlar/aktiviteler bu araca uygun? Hangi açıklama tarzı işe yarar (somut/soyut)?
+2. **ÖĞRENME KATMANI (Vygotsky):** Mevcut beceriden bir tık üstte ne hedefleyebiliriz? Ebeveyn nasıl scaffold etmeli (göster → birlikte yap → bırak)? Hangi dil/oyun zenginliği önerilir?
+3. **PSİKOSOSYAL KATMAN (Erikson):** Bu yaşın "büyük krizi" ne (güven, özerklik, inisiyatif, çalışkanlık)? Ebeveyn davranışı bu krize nasıl olumlu/olumsuz katkı yapar? "Yapılması/yapılmaması gerekenler" listesi.
+4. **BAĞLANMA KATMANI (Bowlby):** Bağlanma kalitesini nasıl koruruz/güçlendiririz? Duyarlı yanıt nasıl görünür bu yaşta? Tamir nasıl yapılır?
+
+### Yaşa Göre Hangi Teori Daha Baskın?
+
+- **Hamilelik – 18 ay:** **Bağlanma + Erikson (Güven)** ağır basar. Piaget/Vygotsky destekleyici.
+- **18 ay – 3 yaş:** **Erikson (Özerklik) + Vygotsky (dil patlaması)** öne çıkar. Bağlanma hâlâ zemin.
+- **3 – 6 yaş:** **Piaget (sembolik düşünce) + Erikson (İnisiyatif) + Vygotsky (oyun-ZPD)** üçlüsü dengeli.
+- **6 – 12 yaş:** **Erikson (Çalışkanlık) + Vygotsky (akran ZPD'si) + Piaget (somut operasyonel)** — bağlanma artık görünür değil ama hâlâ "güvenli üs" olarak sessizce çalışıyor.
+
+### Çapraz-Kesen 5 İlke (her modülde ortak)
+
+1. **Çocuk pasif değil, aktif inşacı** (Piaget) — ebeveyn "bilgi yükleyen" değil, "ortam hazırlayan" olmalı.
+2. **Öğrenme sosyaldir** (Vygotsky) — ekran tek başına yetmez; etkileşim altın standart. DADIBOT, ekran süresini değil **etkileşim kalitesini** artırmalı.
+3. **Her yaşın kendi duygusal görevi var** (Erikson) — "neden bu yaşta inatçı?" sorusunun cevabı genelde gelişimseldir, "kötü çocuk" değil.
+4. **Güvenli ilişki = her şeyin temeli** (Bowlby) — bilişsel/dil/sosyal gelişim güvenli bağlanma üzerinde yükselir; ilişkiyi öne al.
+5. **Mükemmellik gerekmez, tutarlılık + tamir gerekir** — ebeveyn suçluluğunu azaltan, "yeterince iyi anne/baba" (Winnicott) felsefesi.
+
+### Türkiye Bağlamında Özel Notlar
+
+- **Kolektivist kültür uyumu:** Erikson'un "özerklik" ve Bowlby'nin "keşif" vurgusu, aile bağlılığı ile çatışmadan sunulmalı — "bağımsız VE bağlı" bir çocuk hedefi.
+- **Çoklu bakıcı kültürü:** Büyükanne, hala, bakıcı çok devrede; modüller bu paydaşlara da hitap edebilmeli.
+- **Yaygın mit kırma:** "Ağlat, akciğeri açılsın", "kucağa alma şımarır", "erkek çocuk ağlamaz" — bağlanma + Erikson dilinde nazikçe karşı söylem.
+- **Ekran/teknoloji dengesi:** Vygotsky perspektifinden DADIBOT bir "MKO aracı"; çocukla **ebeveyn arasına girmemeli**, aracılık etmeli.
+
+### Eksik Bırakılanlar (Sonraki Araştırma Notu)
+
+Bu 4 klasik teorinin **kapsamadığı** alanlar (V2'de ek araştırma gerekir):
+- Nörobilim (beyin gelişimi, kritik dönemler) — modern eklenti.
+- Mizaç teorileri (Thomas & Chess, Kagan) — bireysel farklılık.
+- Ekolojik sistemler (Bronfenbrenner) — geniş çevre etkisi.
+- Travma & ACEs literatürü (Felitti) — risk değerlendirmesi.
+- Pozitif psikoloji & öz-belirleme teorisi (Deci-Ryan) — motivasyon.
+
+---
+
+*Belge: 02a_developmental_theories.md — DADIBOT V2 araştırma serisi.*
+
